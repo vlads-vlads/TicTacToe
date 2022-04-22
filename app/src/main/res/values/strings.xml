@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="homeTitle">Tic Tac Toe</string>
+    <string name="modeButton">Select mode</string>
+
+    <string name="PlayerSetupTitle">Enter Your Names</string>
+    <string name="Label1">Player1</string>
+    <string name="Label2">Player2</string>
+    <string name="SubmitButton">Submit Names</string>
+    <string name="NameHint">Enter Your Name</string>
+
+    <string name="PlayerSetupTitle1">Enter Your Name</string>
+    <string name="Label4">Player1</string>
+    <string name="SubmitButton1">Submit Name</string>
+    <string name="Label5">Enter Your Name</string>
+
+    <string name="PvPButton">PvP</string>
+    <string name="PvCButton">PvC</string>
+
+    <string name="modeTitle">Select game mode</string>
+
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+</resources>
